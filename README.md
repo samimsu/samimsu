@@ -1,7 +1,7 @@
 ### Hi there, I'm Sami 👋
 
 - 🎊 I'm a coder, blogger, chess nerd, football player and reader
-- 🔭 I'm looking for a junior software developer role
+- 🔭 I'm looking for a junior software developer role (Update: Got an internship. Yay!)
 - 💻 Portfolio: https://samimsu.github.io
 - ✏️ Personal blog: https://sami.gatsbyjs.io
 - ✏️ Coding blog: https://codingforcasuals.com
